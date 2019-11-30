@@ -1,7 +1,7 @@
 # CrawlItBooks
 
 craw the scanlibs and other it books link
-爬取 Scanlibs.com 等一些列电子书ebook站 存储并展示
+爬取 Scanlibs.com 等、列电子书ebook站 存储并展示
 
 ### TODO：
 
