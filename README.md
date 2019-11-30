@@ -5,7 +5,7 @@ craw the scanlibs and other it books link
 
 ### TODO：
 
-1 ~~~Crawler using golang，but need crack the captcha can get the real links~~~(~~~爬虫使用golang，但验证码需要破解，使用puputter+captcha2可以解~~~) 
+1 ~~Crawler using golang，but need crack the captcha can get the real links~~(~~爬虫使用golang，但验证码需要破解，使用puputter+captcha2可以解~~) 
 
 2 展示和搜索还没有做,存储部分需要elastisearch
     
